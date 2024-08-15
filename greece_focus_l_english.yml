@@ -1,0 +1,317 @@
+﻿l_english:
+
+GRE_april_coup: "The April Coup Succesful"
+GRE_april_coup_desc: "a"
+
+GRE_martial_law: "Martial Law"
+GRE_martial_law_desc: "b"
+
+GRE_the_administation: "Secure the new administration"
+GRE_the_administation_desc: "c"
+
+GRE_question_sb: "Question of the SB"
+GRE_question_sb_desc: "d"
+
+GRE_limit_sb_actions: "Limit their actions"
+GRE_limit_sb_actions_desc: "e"
+
+GRE_get_rid_sb: "Get rid of them"
+GRE_get_rid_sb_desc: "f"
+
+GRE_limit_sb_numbers: "Limit their numbers"
+GRE_limit_sb_numbers_desc: "g"
+
+GRE_sb_hire_guns: "Guns for Hire"
+GRE_sb_hire_guns_desc: "h"
+
+GRE_fate_sb_generals: "SB Generals"
+GRE_fate_sb_generals_desc: "1"
+
+GRE_question_old_goverment: "Question of the old goverment"
+GRE_question_old_goverment_desc: "2"
+
+GRE_keep_candinates: "Keep key members"
+GRE_keep_candinates_desc: "3"
+
+GRE_replace_all: "Replace all members"
+GRE_replace_all_desc: "4"
+
+GRE_integrate_them_goverment: "Integrate them into the April Goverment"
+GRE_integrate_them_goverment_desc: "5"
+
+GRE_exile_traitors: "Exile the traitors"
+GRE_exile_traitors_desc: "6"
+
+GRE_regime_colonels: "Regime of the Colonels"
+GRE_regime_colonels_desc: "7"
+
+GRE_question_partisans: "Question of the Partisans"
+GRE_question_partisans_desc: "8"
+
+GRE_crush_communists: "Crush the Communists"
+GRE_crush_communists_desc: "9"
+
+GRE_supress_republicans: "Supress the Republicans"
+GRE_supress_republicans_desc: "10"
+
+GRE_agree_pattakos: "Agreement with Pattakos"
+GRE_agree_pattakos_desc: "11"
+
+GRE_keep_republicans_contained: "Keep Republicans at bay"
+GRE_keep_republicans_contained_desc: "12"
+
+GRE_organisation_x: "Agreement with Organization X"
+GRE_organisation_x_desc: "13"
+
+GRE_operation_stalin_orphans: "Operation STALINS ORPHANS"
+GRE_operation_stalin_orphans_desc: "14"
+
+GRE_temporary_stability: "Temporary stability"
+GRE_temporary_stability_desc: "15"
+
+GRE_new_constitution: "Yes to the Constitution"
+GRE_new_constitution_desc: "16"
+
+GRE_rise_papadopoulos: "Papadopoulos Still Rises"
+GRE_rise_papadopoulos_desc: "17"
+
+GRE_kings_coup: "Kings Coup"
+GRE_kings_coup_desc: "18"
+
+GRE_consilidate_rule: "Consolidate Rule"
+GRE_consilidate_rule_desc: "19"
+
+GRE_getting_work: "Getting to work"
+GRE_getting_work_desc: "20"
+
+GRE_matters_politics: "Matters of the Politics"
+GRE_matters_politics_desc: "21"
+
+GRE_regognise_cabinate: "Regognise the cabinate"
+GRE_regognise_cabinate_desc: "22"
+
+GRE_meet_cabinate: "Meeting with the cabinate"
+GRE_meet_cabinate_desc: "23"
+
+GRE_social_matters: "Social Matters"
+GRE_social_matters_desc: "24"
+
+GRE_patriotic_education: "Patriotic education"
+GRE_patriotic_education_desc: "25"
+
+GRE_greek_univeristy: "Open Greek universities"
+GRE_greek_univeristy_desc: "26"
+
+GRE_working_spaces: "New working spaces"
+GRE_working_spaces_desc: "27"
+
+GRE_affordable_houses: "Affordable housing"
+GRE_affordable_houses_desc: "28"
+
+GRE_rejuvenate_cities: "Rejuvenate the cities"
+GRE_rejuvenate_cities_desc: "29"
+
+GRE_island_modernize: "Modernise the cities"
+GRE_island_modernize_desc: "30"
+
+GRE_expand_deh: "Expand DEH outside the cities"
+GRE_expand_deh_desc: "31"
+
+GRE_expand_eydap: "Expand EYDAP"
+GRE_expand_eydap_desc: "32"
+
+GRE_political_unpopularity: "political matters"
+GRE_political_unpopularity_desc: "33"
+
+GRE_finsh_red: "Finish off the Reds"
+GRE_finsh_red_desc: "34"
+
+GRE_liberal_coperetion: "Offer co-opperation with liberals"
+GRE_liberal_coperetion_desc: "35"
+
+GRE_deal_monarch: "Deal with the King"
+GRE_deal_monarch_desc: "36"
+
+GRE_abolish_monarchy: "Abolish the Monarchy"
+GRE_abolish_monarchy_desc: "37"
+
+GRE_kings_power: "The Kings power"
+GRE_kings_power_desc: "38"
+
+GRE_abolish_old_parties: "Abolish the old parties"
+GRE_abolish_old_parties_desc: "39"
+
+GRE_trials_traitors: "Trials for traitors"
+GRE_trials_traitors_desc: "40"
+
+GRE_finalise_constitution: "Finalize the 1968 constitution"
+GRE_finalise_constitution_desc: "41"
+
+GRE_papadopulism: "Papadopoulism"
+GRE_papadopulism_desc: "42"
+
+GRE_democracy_returns: "Start Democratization"
+GRE_democracy_returns_desc: "43"
+
+GRE_loosen_militery_law: "Loosen militery law"
+GRE_loosen_militery_law_desc: "44"
+
+GRE_pemit_gathering: "Permit social gatherings"
+GRE_pemit_gathering_desc: "45"
+
+GRE_markezinis_goverment: "Implement social gatherings"
+GRE_markezinis_goverment_desc: "46"
+
+GRE_hellenic_economy: "The New Hellenic Economy"
+GRE_hellenic_economy_desc: "47"
+
+GRE_the_industrial_coperation: "The Hellenoc Industrial Corporation"
+GRE_the_industrial_coperation_desc: "48"
+
+GRE_contact_pyrkal: "Contact PYRKAL"
+GRE_contact_pyrkal_desc: "49"
+
+GRE_rejuvanate_arms_industry: "Rejuvenate the Arms Industry"
+GRE_rejuvanate_arms_industry_desc: "50"
+
+GRE_contact_investors: "Contact Investors"
+GRE_contact_investors_desc: "51"
+
+GRE_old_friendships: "Old Friendships"
+GRE_old_friendships_desc: "52"
+
+GRE_autarky: "Resource Autarky Initiatives"
+GRE_autarky_desc: "53"
+
+GRE_reopen_epirot_mines: "Re-Opening colosed Epiriot Mines"
+GRE_reopen_epirot_mines_desc: "54"
+
+GRE_exploit_petrol_agean: "Revanging Our Seas for Petroleum"
+GRE_exploit_petrol_agean_desc: "55"
+
+GRE_light_industry: "Athens Light Industry Complex"
+GRE_light_industry_desc: "56"
+
+GRE_forgive_farmers_depts: "Forgive Farmers Debts"
+GRE_forgive_farmers_depts_desc: "57"
+
+GRE_growth_atlast: "Growth, at last..."
+GRE_growth_atlast_desc: "58"
+
+GRE_drachma_coin: "Drachma is the strongest coin"
+GRE_drachma_coin_desc: "59"
+
+GRE_anti_bulgarian: "Anti-Bulagrian Propaganda"
+GRE_anti_bulgarian_desc: "60"
+
+GRE_epirus_ageement: "Epirus agreement"
+GRE_epirus_ageement_desc: "61"
+
+GRE_anti_turkish: "Revive Anti-Turkish Spirit"
+GRE_anti_turkish_desc: "62"
+
+GRE_second_macedonian_struggle: "Second Macedonian Struggle"
+GRE_second_macedonian_struggle_desc: "63"
+
+GRE_amrs_purchases: "Arms Purchases"
+GRE_amrs_purchases_desc: "64"
+
+GRE_begin_reunification: "Begin Reunification"
+GRE_begin_reunification_desc: "65"
+
+GRE_matters_crete: "Matters of Crete"
+GRE_matters_crete_desc: "66"
+
+GRE_dodecanese_troubles: "Dodecanese Troubles"
+GRE_dodecanese_troubles_desc: "67"
+
+GRE_victory_death: "Victory or Death"
+GRE_victory_death_desc: "68"
+
+GRE_enosis_green_beret: "Enosis Under The Green Beret"
+GRE_enosis_green_beret_desc: "69"
+
+GRE_revive_megali_idea: "Revive The Megali Idea"
+GRE_revive_megali_idea_desc: "70"
+
+GRE_lost_hope: "Lost Hope"
+GRE_lost_hope_desc: "71"
+
+GRE_anti_goverment_riots: "Anti-Goverment-Riots"
+GRE_anti_goverment_riots_desc: "72"
+
+GRE_polytexnio: "Polytexnio Uprising"
+GRE_polytexnio_desc: "73"
+
+GRE_reintruduce_marcial_law_athens: "Re-indroduce Martial Law in Athens"
+GRE_reintruduce_marcial_law_athens_desc: "74"
+
+GRE_use_force: "Use Force"
+GRE_use_force_desc: "74"
+
+GRE_terrorise_masses: "Terrorise the Population"
+GRE_terrorise_masses_desc: "75"
+
+GRE_eliminate_protesters: "Eliminate the Protesters"
+GRE_eliminate_protesters_desc: "76"
+
+GRE_use_caution: "Use Caution"
+GRE_use_caution_desc: "77"
+
+GRE_control_masses: "Controll the Population"
+GRE_control_masses_desc: "78"
+
+GRE_negotiations_polytechnio: "Negotietions with Polytexnio"
+GRE_negotiations_polytechnio_desc: "79"
+
+GRE_break_strike: "Break the Strike"
+GRE_break_strike_desc: "80"
+
+GRE_arrest_protesters: "Arrest the Protesters"
+GRE_arrest_protesters_desc: "81"
+
+GRE_end_crisis: "End the Crisis"
+
+GRE_last_month_markezinis: "Last Month of Markezinis"
+GRE_last_month_markezinis_desc: "82"
+
+GRE_announce_election: "Announce New Elections"
+GRE_announce_election_desc: "83"
+
+GRE_creation_polotical_parties: "Allow the Creation of Political Parties"
+GRE_creation_polotical_parties_desc: "84"
+
+GRE_return_democracy: "Return to Democracy"
+
+GRE_progressive_party: "Pregressive Party"
+GRE_progressive_party_desc: "85"
+
+GRE_pasok: "PASOK"
+GRE_pasok_desc: "86"
+
+GRE_udc: "Union of the Democratic Centre"
+GRE_udc_desc: "87"
+
+GRE_new_democracy: "New Democracy"
+GRE_new_democracy_desc: "88"
+
+GRE_npu: "National Political Union"
+GRE_npu_desc: "89"
+
+GRE_august_party: "4th of August Party"
+GRE_august_party_desc: "90"
+
+GRE_ionnadis: "Ioannidis Intervenes "
+GRE_ionnadis_desc: "91"
+
+GRE_arrest_previous_leaders: "Arrest Papadopoulos and Markezinis"
+GRE_arrest_previous_leaders_desc: "92"
+
+GRE_end_transitional: "End the Treansitional Regime"
+GRE_end_transitional_desc: "93"
+
+GRE_declear_martial_law: "Declare Martial Law"
+GRE_declear_martial_law_desc: "94"
+
+GRE_announe_junta: "Announce the New Junta"
+GRE_announe_junta_desc: "95"
